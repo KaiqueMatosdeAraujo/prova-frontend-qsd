@@ -1,0 +1,18 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.principal{
+    border:5px solid green;
+    display:flex;
+
+}
+.login{
+
+    border:5px solid red 
+}
+.cadastrar{
+    background-color:blue;
+    border:5px solid red ;
+
+}
